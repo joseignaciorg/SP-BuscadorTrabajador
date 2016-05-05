@@ -1,0 +1,3 @@
+C:\Users\ericame\Documents\Visual Studio 2015\Projects\BuscadorTrabajador\BuscadorTrabajador\bin\Debug\BuscadorTrabajador.pdb
+C:\Users\ericame\Documents\Visual Studio 2015\Projects\BuscadorTrabajador\BuscadorTrabajador\obj\Debug\BuscadorTrabajador.dll
+C:\Users\ericame\Documents\Visual Studio 2015\Projects\BuscadorTrabajador\BuscadorTrabajador\obj\Debug\BuscadorTrabajador.pdb
